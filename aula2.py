@@ -82,5 +82,3 @@ model.fit(x_train,y_train)
 pred = model.predict(x_test)
 plt.scatter(y_test,pred)
 plt.show()
-
-#linhha
