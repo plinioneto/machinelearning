@@ -1,3 +1,9 @@
 venv
 Iris.csv
+<<<<<<< HEAD
 cancer_mama.csv
+=======
+diabetes.csv
+diabetes_r01.pdf
+diabetes.jpg
+>>>>>>> c1424ba6ac0f06566d5263429a007f9e147cf54c
